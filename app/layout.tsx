@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-const siteUrl = "https://nadoteknoloji.com";
+const siteUrl = "https://nado.tr";
 const siteTitle = "Nado Teknoloji | Yazılım ve Yapay Zeka Odaklı Dijital Ürünler";
 const siteDescription =
   "Nado Teknoloji; yazılım geliştirme, yapay zeka destekli çözümler ve kullanıcı odaklı dijital ürünler üzerine çalışan teknoloji girişimidir.";

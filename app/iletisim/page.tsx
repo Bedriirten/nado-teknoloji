@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: contactTitle,
     description: contactDescription,
-    url: "https://nadoteknoloji.com/iletisim",
+    url: "https://nado.tr/iletisim",
     siteName: "Nado Teknoloji",
     locale: "tr_TR",
     type: "website",
@@ -42,8 +42,8 @@ export const metadata: Metadata = {
 const contactDetails = [
   {
     label: "E-posta",
-    value: "info@nadoteknoloji.com",
-    href: "mailto:info@nadoteknoloji.com",
+    value: "info@nado.tr",
+    href: "mailto:info@nado.tr",
   },
   {
     label: "Çalışma Alanı",

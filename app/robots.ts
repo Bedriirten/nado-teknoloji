@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://nadoteknoloji.com/sitemap.xml",
+    sitemap: "https://nado.tr/sitemap.xml",
   };
 }

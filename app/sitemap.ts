@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const siteUrl = "https://nadoteknoloji.com";
+const siteUrl = "https://nado.tr";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return [

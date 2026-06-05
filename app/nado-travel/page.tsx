@@ -83,7 +83,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: travelTitle,
     description: travelDescription,
-    url: "https://nadoteknoloji.com/nado-travel",
+    url: "https://nado.tr/nado-travel",
     siteName: "Nado Teknoloji",
     locale: "tr_TR",
     type: "website",
